@@ -1,0 +1,1 @@
+Hi, welcome to my github profile! I am S M Shafiul Hasan from Dhaka, Bangladesh and I am a Ph.D. in Electrical and Computer Engineering with 5+ years of experience in biomedical signal processing (EEG, EMG, fNIRS) for Brain-Computer Interfaces (BCI). I am experienced in data analytics, machine learning, and signal processing with proficient coding capabilities.
